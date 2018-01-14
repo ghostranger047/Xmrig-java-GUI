@@ -1,4 +1,9 @@
 # Xmrig-java-GUI
+
+![Alt text](https://drive.google.com/file/d/1E8ewvrmfu7hWJ8DUS_NwscFrpLwhmv7J/view?usp=sharing "Main Window") ![Alt text](https://drive.google.com/open?id=1Nev3KgoytxBIbN9Ku0yU9-WLiyuIGNyP "Terminal window")
+
+
+
 This is just a simple  java made gui project to run both xmrig CPU and GPU 
 miners together without having to open too mang terminals. Just specify the
 locations of the compiled binaries, set wallet and mining address and specify 
